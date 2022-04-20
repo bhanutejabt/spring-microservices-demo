@@ -4,7 +4,47 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7058298f-8ab7-41f1-83db-c1d3ab51fc89" name="Changes" comment="" />
+    <list default="true" id="7058298f-8ab7-41f1-83db-c1d3ab51fc89" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../cloud-config-server/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloud-config-server/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloud-config-server/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloud-config-server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloud-config-server/src/main/java/com/springmicroservicesdemo/cloudconfigserver/CloudConfigServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloud-config-server/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloud-config-server/src/test/java/com/springmicroservicesdemo/cloudconfigserver/CloudConfigServerApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloud-gateway/src/main/java/com/springmicroservicesdemo/cloudgateway/FallBackMethodController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloud-gateway/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hystrix-dashboard/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hystrix-dashboard/hystrix-dashboard/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hystrix-dashboard/hystrix-dashboard/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hystrix-dashboard/hystrix-dashboard/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hystrix-dashboard/hystrix-dashboard/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hystrix-dashboard/hystrix-dashboard/src/main/java/com/springmicorservicesdemo/hystrixdashboard/HystrixDashboardApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hystrix-dashboard/hystrix-dashboard/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hystrix-dashboard/hystrix-dashboard/src/test/java/com/springmicorservicesdemo/hystrixdashboard/HystrixDashboardApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hystrix-dashboard/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hystrix-dashboard/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hystrix-dashboard/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hystrix-dashboard/src/main/java/com/springmicorservicesdemo/hystrixdashboard/HystrixDashboardApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hystrix-dashboard/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hystrix-dashboard/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hystrix-dashboard/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hystrix-dashboard/src/test/java/com/springmicorservicesdemo/hystrixdashboard/HystrixDashboardApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-service/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud-gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cloud-gateway/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud-gateway/src/main/java/com/springmicroservicesdemo/cloudgateway/CloudGatewayApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cloud-gateway/src/main/java/com/springmicroservicesdemo/cloudgateway/CloudGatewayApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud-gateway/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../cloud-gateway/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/department-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/department-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/department-service/src/main/java/com/springmicroservicesdemo/departmentservice/DepartmentServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/department-service/src/main/java/com/springmicroservicesdemo/departmentservice/DepartmentServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/department-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/department-service/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/../cloud-config-server/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/department-service/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../user-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-service/src/main/java/com/springmicroservicesdemo/userservice/UserServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user-service/src/main/java/com/springmicroservicesdemo/userservice/UserServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../user-service/src/main/resources/application.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
